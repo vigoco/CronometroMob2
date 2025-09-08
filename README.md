@@ -24,3 +24,4 @@
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/tu-usuario/cronometro.git
+![GIF](https://github.com/user-attachments/assets/a141a604-ec6b-469f-a0e1-3df035cd4ad9)
